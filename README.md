@@ -2,10 +2,9 @@ This is a simple command-line java application for downloading product basic inf
 and images from http://sakurafilter.com/
 
 You have to provide a list of products that you want to download in simple .txt-file where each line is name of product, e.g.:
-"
-...
-CA-1114
-CAC-1114
-...
-A-1768
+"...<br>
+CA-1114<br>
+CAC-1114<br>
+...<br>
+A-1768<br>
 "
